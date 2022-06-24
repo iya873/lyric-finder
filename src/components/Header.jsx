@@ -2,7 +2,7 @@ import React from 'react'
 
 const Header = () => {
   return (
-    <h1>Title of Header</h1>
+    <h1>That One Song</h1>
   )
 }
 
