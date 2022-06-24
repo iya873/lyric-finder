@@ -1,0 +1,7 @@
+LYRICS FINDER APPLICATION (That One Song)
+
+React app that enables users to find artists and songs
+
+Components: Header -> title + logo
+            Search-> search bar + button
+            Showcase-> shows all information rendered
